@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Main Code/src"/>
+	<classpathentry kind="lib" path="Main Code/WebContent/WEB-INF/lib/javax.servlet.jsp-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="Main Code/WebContent/WEB-INF/lib/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="Main Code/WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="Main Code/WebContent/WEB-INF/lib/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="Main Code/WebContent/WEB-INF/lib/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="Main Code/WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="output" path="Main Code/build/classes"/>
+</classpath>
